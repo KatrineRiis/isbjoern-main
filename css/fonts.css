@@ -5,3 +5,16 @@
   font-weight: 300 700;
   font-style: normal;
 }
+@font-face {
+  font-family: "Outfit";
+  src: url("../fonts/Outfit-Regular.woff2") format("woff2");
+  font-weight: var(--font-weight-regular);
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: url("../fonts/Outfit-Bold.woff2") format("woff2");
+  font-weight: var(--font-weight-bold);
+  font-style: normal;
+}
